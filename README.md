@@ -1,7 +1,8 @@
 <h1>Hi, I'm Adeel! <br/><a href="https://github.com/adeelms">Computational</a> - <a href="https://www.linkedin.com/in/psychologistadeel/">Cognitive Neuroscience</a> nerd, sorry Researcher!!!😉</h1>
 
 I am beginning my career as a computational and cognitive neuroscience researcher, passionate about making AI, computers, and robots neuroscientifically and cognitively intelligent. Currently, I am focusing on quantitative analysis of neural and behavioral data, with a rising interest in Human-Computer/AI/Robot Interaction.
-
+> **Open to research collaborations and lab placements.** 
+> By bringing me into your lab or team, you will gain a dedicated researcher with a deep understanding of human cognition, hands-on training in experimental methods, and the robust computational data analysis skills. I am eager to apply these skills to innovative projects. If you are building at the intersection of brains and machines, let's build the future of cognitive tech together.
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Data Analyses Projects </b>
