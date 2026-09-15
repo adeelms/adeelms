@@ -6,7 +6,7 @@ I am beginning my career in computational and cognitive neuroscience research, p
 <h2>👨‍💻 Projects:</h2>
 
 - <b>BCI </b>
-  - [Coming soon](https://github.com/adeelms) 
+  - [EEG-Motor-Imagery-BCI-Decode](https://github.com/adeelms/EEG-Motor-Imagery-BCI-Decoder) 
 - <b>Data Analyses Projects </b>
   - [EEG-Signal-Processing-MNE](https://github.com/adeelms/EEG-Signal-Processing-MNE)
   - [EEG-Multilingual-Lexical-Decision-ERPN400](https://github.com/adeelms/EEG-Multilingual-Lexical-Decision-ERPN400)
