@@ -1,10 +1,12 @@
-<h1>Hi, I'm Adeel! <br/><a href="https://github.com/adeelms">Computational</a> - <a href="https://www.linkedin.com/in/psychologistadeel/">Cognitive Neuroscience</a> nerd, sorry Researcher!!!😉</h1>
+<h1>Hi, I'm Adeel! <br/><a href="https://github.com/adeelms">Computational</a> - <a href="https://www.linkedin.com/in/psychologistadeel/">Cognitive Neuroscience</a> nerd, sorry Learner!!!😉</h1>
 
 I am beginning my career in computational and cognitive neuroscience research, passionate about making contirbution to the field. Currently, I am focusing on quantitative analysis of neural and behavioral data.
 > **Open to research collaborations and lab placements.** 
 > By bringing me into your lab or team, you will gain a dedicated researcher with a deep understanding of human cognition, hands-on training in experimental methods, and the robust computational data analysis skills. I am eager to apply these skills to innovative projects.
 <h2>👨‍💻 Projects:</h2>
 
+- <b>BCI </b>
+  - [Coming soon](https://github.com/adeelms) 
 - <b>Data Analyses Projects </b>
   - [EEG-Signal-Processing-MNE](https://github.com/adeelms/EEG-Signal-Processing-MNE)
   - [EEG-Multilingual-Lexical-Decision-ERPN400](https://github.com/adeelms/EEG-Multilingual-Lexical-Decision-ERPN400)
